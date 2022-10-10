@@ -1,1 +1,1 @@
-Web:   sh setup.sh && streamlit run modal.py
+Web:   sh setup.sh && streamlit run app.py
